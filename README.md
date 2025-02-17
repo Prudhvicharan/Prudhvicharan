@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-- 🌐 Explore my portfolio at [prudhvicharan.github.io/portfolio](https://prudhvicharan.github.io/portfolio/) to see some of my work!
+- 🌐 Explore my portfolio at [prudhvicharan.com/portfolio](https://prudhvicharan.com/) to see some of my work!
 - 💻 I enjoy working with **Angular**, **React**, **Node.js**, **JavaScript**, **TypeScript**, and more.
 - 📫 How to reach me: **bunnycharanprudhvi@gmail.com**
 

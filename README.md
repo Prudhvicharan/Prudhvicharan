@@ -65,6 +65,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="300" alt="Developer" />
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Prudhvicharan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Stats
 

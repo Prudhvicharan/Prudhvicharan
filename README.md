@@ -19,8 +19,8 @@
 ```typescript
 const prudhviCharan = {
     name: "Sai Prudhvi Charan Pothumsetty",
-    title: "Innovative Software Engineer",
-    experience: "3+ years",
+    title: "Full Stack AI Engineer",
+    experience: "5+ years",
     location: "🌍 Earth",
     education: [
         "M.Tech in Software Engineering", 
@@ -34,7 +34,7 @@ const prudhviCharan = {
 ```
 
 🎓 **Academic Excellence**: Master's in Technology & Computer Science  
-💼 **Professional Focus**: Front-end Development, Angular 9, TypeScript  
+💼 **Professional Focus**: Front-end Development, Angular 9, React, TypeScript  
 🎯 **Mission**: Crafting seamless user experiences through innovative solutions  
 ⚡ **Superpower**: Turning coffee into code ☕ → 💻  
 🔧 **Expertise**: API Integration, Performance Optimization, Unit Testing
@@ -113,7 +113,7 @@ const launchMasters = {
   status: '🟢 Live & Production Ready'
 };
 ```
-**🔗 [Live Demo](https://launchmasters.vercel.app/login) | [Source Code](https://github.com/Prudhvicharan/launchmasters)**
+**🔗 [Live Demo](https://launchmasters-prod.vercel.app/) | [Source Code](https://github.com/Prudhvicharan/launchmasters)**
 
 </td>
 <td width="50%">
@@ -155,7 +155,7 @@ const careerAxis = {
 - **Deployment:** Vercel
 - **Authentication:** Custom auth system
 
-**🌐 Live Access:** [launchmasters.vercel.app](https://launchmasters.vercel.app/login)
+**🌐 Live Access:** [LaunchMasters](https://launchmasters-prod.vercel.app/)
 
 </details>
 
@@ -357,7 +357,7 @@ me.code();
 
 <div align="center">
   
-**🌐 Portfolio**: [prudhvicharan.com](https://react.prudhvicharan.com/)  
+**🌐 Portfolio**: [Check it out!](https://prudhvicharan.com/)  
 **📧 Email**: bunnycharanprudhvi@gmail.com  
 **💼 LinkedIn**: [Connect with me](https://www.linkedin.com/in/prudhvi-charan/)  
 

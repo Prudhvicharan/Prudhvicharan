@@ -44,7 +44,7 @@ const prudhviCharan = {
 ## 🌐 Let's Connect & Explore
 
 <div align="center">
-  <a href="https://prudhvicharan.github.io/portfolio/">
+  <a href="https://prudhvicharan.com">
     <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://react.prudhvicharan.com/">

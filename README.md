@@ -375,6 +375,11 @@ me.code();
   <img src="https://img.shields.io/badge/Open%20Source-❤️-red?style=flat-square" alt="Open Source Love"/>
 </div>
 
+## 🦎 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Prudhvicharan/Prudhvicharan/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
 ---
 
 <div align="center">

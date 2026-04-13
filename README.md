@@ -1,13 +1,12 @@
 # 🌟 Welcome to My Digital Universe
 
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0&animation=twinkling"/>
+</div>
+<div align="center">
   
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=Hi+there!+I'm+Sai+Prudhvi+Charan+👋;Innovative+Software+Engineer;3%2B+Years+of+Experience;Building+Tomorrow's+Solutions+Today!;Welcome+to+My+Code+Journey+🚀)
 
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0&animation=twinkling"/>
 </div>
 
 ---

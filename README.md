@@ -374,9 +374,9 @@ me.code();
   <img src="https://img.shields.io/badge/Open%20Source-❤️-red?style=flat-square" alt="Open Source Love"/>
 </div>
 
-## ◫ Contribution landscape
+## Contribution landscape
 
-<img src="https://raw.githubusercontent.com/Chay039/Chay039/HEAD/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution calendar" width="100%" />
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution calendar" width="100%" />
 
 ## 🦎 Contribution Snake
 
